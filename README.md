@@ -307,10 +307,6 @@ Task Manager/
 ├── index.html          # Main dashboard page
 ├── index.css           # Main styling
 ├── index.js            # Main application logic
-├── task/
-│   ├── task.html       # Detailed task management page
-│   ├── task.css        # Task page styling
-│   └── task.js         # Task management logic
 └── Readme.md           # Project documentation
 ```
 
